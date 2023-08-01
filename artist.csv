@@ -1,5 +1,11 @@
-name	type
-manfred honeck	conductor
-beatrice rana	pianist
-john thatcher boomer	"pianist, clarinet"
-delvon lamarr	keyboardist
+name,type
+manfred honeck,conductor
+beatrice rana,pianist
+john thatcher boomer,"pianist, clarinet"
+delvon lamarr,keyboardist
+igor levit,pianist
+anna rakitina,conductor
+denis kozhukhin,pianist
+harold lopez-nussa,pianist
+ruy lopez-nussa,drummer
+aldo lopez-gavilan,pianist
