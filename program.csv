@@ -1,4 +1,18 @@
-piece, author, date, event
-"piano trio in g major, opus 65", johann hummel, 2023-10-08, chamber music at legion of honor
-"violin sonata no. 22 in a major, k. 305", wolfgang amadeus mozart, 2023-10-08, chamber music at legion of honor
-"piano trio no. 2 in e minor, opus 67", dmitri shostakovich, 2023-10-08, chamber music at legion of honor
+piece, author, performers, date, event
+"piano trio in g major, opus 65", johann hummel, , 2023-10-08, chamber music at legion of honor
+"violin sonata no. 22 in a major, k. 305", wolfgang amadeus mozart, , 2023-10-08, chamber music at legion of honor
+"piano trio no. 2 in e minor, opus 67", dmitri shostakovich, , 2023-10-08, chamber music at legion of honor
+"Latest [San Francisco Symphony Commission and U.S. Premiere]", "Betsy Jolas", "sf symphony", 2023-11-03, "INSPIRATIONS: ART/MUSIC"
+"Violin Concerto", "Antonín Dvořák", "sf symphony", 2023-11-03, "INSPIRATIONS: ART/MUSIC"
+"Pictures at an Exhibition", "Modest Mussorgsky (arr. Maurice Ravel)", "sf symphony", 2023-11-03, "INSPIRATIONS: ART/MUSIC"
+"Suite in A minor", "Jean-Philippe Rameau", "daniil trifonov", 2023-11-19, "daniil trifonov"
+"Piano Sonata No. 12 in F major, K.332 ", "Wolfgang Amadeus Mozart", "daniil trifonov", 2023-11-19, "daniil trifonov"
+"Variations sérieuses", "Felix Mendelssohn", "daniil trifonov", 2023-11-19, "daniil trifonov"
+"Piano Sonata No. 29 in B-flat major, Opus 106, Hammerklavier", "Ludwig van Beethoven", "daniil trifonov", 2023-11-19, "daniil trifonov"
+"Four Impromptus, Opus 90", "Franz Schubert", "eric lu", 2024-01-31, "eric lu"
+"Piano Sonata No. 3, Opus 58", "Frédéric Chopin", "eric lu", 2024-01-31, "eric lu"
+"Piano Sonata in A minor, Opus 143, D.784", "Franz Schubert", "yefim bronfman", 2024-04-21, "yefim bronfman"
+"Faschingsschwank aus Wien, Opus 26", "Robert Schumann", "yefim bronfman", 2024-04-21, "yefim bronfman"
+"Sisar", "Esa-Pekka Salonen", "yefim bronfman", 2024-04-21, "yefim bronfman"
+"Nocturne in D-flat major, Opus 27, no.2", "Frédéric Chopin", "yefim bronfman", 2024-04-21, "yefim bronfman"
+"Piano Sonata No. 7 in B-flat major, Opus 83", "Sergei Prokofiev", "yefim bronfman", 2024-04-21, "yefim bronfman"
