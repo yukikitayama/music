@@ -60,6 +60,16 @@ A **period** consists of **2 phrases** that have relationship of **antecedent** 
 
 **Phrase group** consists of 2 or more phrases that do not have antecedent to consequent relationship. 
 
+**Augmentation** is taking a motif or an entire phrase and increasing the duration of each note by the same proportion. 
+For example, increase eighth note to quarter note, increase quarter note to half note. **Strict augmentation** is doubling 
+the lengths. Increasing by 3 or 4 times is less common, because the increased motif will not be recognizable by listeners. 
+
+**Diminution** is taking a motif or an entire phrase and decreasing the duration of each note by the same proportion. 
+For example, a half note to a quarter note, a quarter note to an eighth note. **Strict diminution** is halving the lengths. 
+
+**Augmentation** and **diminution** are techniques used to develop rhythmic material.
+
+
 ## Listening assignments
 
 Section 1
@@ -99,3 +109,12 @@ Section 5: Rhythmic periods and phrase groups
   - 2nd movement from Piano Sonata No. 8 (“Pathétique”)
   - 3rd movement from Piano Sonata No. 14 (“Quasi una fantasia”)
   - Piano Concerto No. 5 in E-flat major (the "Emperor" concerto)
+
+Section 6: Rhythmic development part 1
+
+- Gioachino Rossini (1792 – 1868)
+  - Overture to the opera “L'italiana in Algeri” (The Italian Girl in Algiers)
+  - Overture to the opera “William Tell” 
+  - Overture to the opera “Semiramide”
+- Amilcare Ponchielli (1834 – 1886)
+  - “Dance of the Hours” from Act 3 of the opera “La Gioconda”
