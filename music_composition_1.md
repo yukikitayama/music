@@ -69,6 +69,34 @@ For example, a half note to a quarter note, a quarter note to an eighth note. **
 
 **Augmentation** and **diminution** are techniques used to develop rhythmic material.
 
+**Truncation** is when any part of the end of a motif or phrase is left off (truncated). It works best with phrases, 
+because motif are already too short to truncate. Truncating by putting rests instead of notes for example.
+
+**Expansion** is when any part of a motif or phrase is added on to the end of the original rhythm.
+
+**Displacement** (rhythmic displacement) is accomplished by shifting a motif or a phrase over so that it begins on a 
+different beat. **Displacement changes the sound and feel of a motif or phrase because different notes will now be stronger.**
+
+**Rhythmic mood** is the mood that can be created by being creative of using different types of rhythms. 
+Different types of rhythms are duration, meter, tempo, dynamics, and articulations.
+
+- **Notes of longer duration** usually depict the **less intense** emotions or moods.
+  - Peacefulness
+  - Tranquility
+- **Notes of shorter duration** usually depict the **more intense** emotions or moods.
+  - Franticness (Emotionally out of control)
+  - Hurriedness
+  - Loss of calmness 
+- The same pattern repeated over and over again can depict **persistence** or **resoluteness**
+  - To avoid too much uniformity, you can add rests between the same pattern.
+- 4/4 meter can contribute to less intense moods.
+- 2/4 meter can contribute to more intense moods.
+- 3/4 meter can suggest a rocking or swinging back and forth to depict a **soothing or comforting mood**
+  - Making it faster tempo, it can depict a **playful or joyous mood**.
+- Fortissimo can depict angry
+- Staccato articulations can create a lighthearted effect
+- Markardo articulations can create a more agitated effect.
+
 
 ## Listening assignments
 
@@ -118,3 +146,18 @@ Section 6: Rhythmic development part 1
   - Overture to the opera “Semiramide”
 - Amilcare Ponchielli (1834 – 1886)
   - “Dance of the Hours” from Act 3 of the opera “La Gioconda”
+
+Section 7: Rhythmic development part 2
+
+- Franz Schubert (1797 – 1828)
+  - Ave Maria 
+  - Moment Musical No. 3
+  - "Ständchen" (“Serenade”) piano version or piano and violin version 
+  - Arpeggione Sonata in A minor (cello and piano version)
+  - String Quartet No. 14 in D minor (Death and the Maiden)
+
+Section 8: Conveying mood through rhythm
+
+- Felix Mendelssohn (1809 – 1847)
+  - Violin Concerto in E minor, Op. 64
+  - Symphony No. 4 in A major (the “Italian” symphony)
