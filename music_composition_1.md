@@ -1,6 +1,6 @@
 # Music Composition 1
 
-## Concept
+## Rhythm
 
 **Uniformity** provides intelligible. **Variety** provides interesting
 
@@ -97,6 +97,33 @@ Different types of rhythms are duration, meter, tempo, dynamics, and articulatio
 - Staccato articulations can create a lighthearted effect
 - Markardo articulations can create a more agitated effect.
 
+## Melody
+
+**Melody** is an ordered succession of pitches. Melody cannot be separated from rhythm, but rhythm can be separated from melody,
+because pitch has duration and duration gives us rhythm. Rhythm contributes to the identity of a melody.
+
+Melody must move, meaning changing pitches. Melody can move in the following ways
+
+- Direction of movement
+  - Ascending
+  - Descending
+  - A good piece should have both ascending and descending. If it only has one direction, it sounds dull and uninteresting.
+- Size of movement (Intervallic distance)
+  - Conjunct
+    - Movement by 2nds. Stepwise motion.
+    - For example, D -> E (stepping up). D -> C (stepping down).
+    - More natural movement than disjunct, more connected to scale into the human voice.
+  - Disjunct
+    - Movement by any interval larger than a 2nd. Skipwise motion 
+    - For example, E -> G (skipping up, interval by 3rd). E -> C (skipping down, interval by 4th)
+
+The most melodic melodies contain **a balance of ascending, descending, stepwise and skipwise motion**. These types of 
+melodies are very **singable, memorable, and stick with us**.
+
+Melody has a close connection to speech in terms of the range of pitch. The pitch in our voice varies only slightly when 
+we speak and doesn't jump from one extreme to another. This is why melodies usually stay within the range of an 8th or an 8th and a 3rd.
+
+The most basic melodies arise from groups of pitches called **keys** and from the possibilities within the pitches of the scale.
 
 ## Listening assignments
 
