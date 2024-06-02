@@ -14,9 +14,9 @@ Notes create motif. Motifs create phrases.
 - Melodic motif
 - Harmonic motif
 
-Shorter is better. Motifs are generally anywhere from 2 to 8 notes.
-
-Motifs are usually best when they contain at least 2 (or more) different note durations.
+Good motif
+- Shorter is better. Motifs are generally anywhere from 2 to 8 notes.
+- Motifs are usually best when they contain at least 2 (or more) different note durations.
 
 Where do composers get their musical ideas from? 
 - Find a quiet place
@@ -110,7 +110,7 @@ Melody must move, meaning changing pitches. Melody can move in the following way
   - A good piece should have both ascending and descending. If it only has one direction, it sounds dull and uninteresting.
 - Size of movement (Intervallic distance)
   - Conjunct
-    - Movement by 2nds. Stepwise motion.
+    - Movement by 2nds. Stepwise motion. movement with 1 step is also conjunct.
     - For example, D -> E (stepping up). D -> C (stepping down).
     - More natural movement than disjunct, more connected to scale into the human voice.
   - Disjunct
@@ -125,66 +125,44 @@ we speak and doesn't jump from one extreme to another. This is why melodies usua
 
 The most basic melodies arise from groups of pitches called **keys** and from the possibilities within the pitches of the scale.
 
-## Listening assignments
+**Transcribe** is hearing a rhythm, melody, or harmony and being able to notate it.
 
-Section 1
+- It might be easier to notate the rhythm first on a single pitch and then go back over it and change the pitches to those of the melody.
+- Always start by determining the meter. To determine the meter listen for the strong pulses.
+- Once you have determined the meter try writing down the first measure.
+- Once you think you have the first measure down move on to the next measure.
+- Continue one measure at a time until you have the entire melody notated.
 
-- Johann Pachelbel
-  - Canon in D
-- Antonio Vivaldi
-  - The Four Seasons
-  - Gloria: #1. Gloria in Excelsis Deo
+**Melodic motif** involves the pitches of the notes. 
+- Most melodic motifs will coincide with the rhythmic motifs. 
+- Melodic motif can appear with changed rhythm.
+  - You may change the rhythmic structure of a melody while maintaining its melodic motif
+- Interval quality can be different, but interval number must be the same
+  - e.g. Motif with Major 3rd -> restated motif with Minor 3rd
+  - But not motif with 3rd -> restated motif with 4th
 
-Section 2
+Techniques used for developing melodic motifs and for adding melodic material
+- **Repetition**
+  - **String repetition** repeats the original motif for note to note, all the pitches, all the durations are identical.
+- **Transposition**
+  - The motif is repeated but at a higher or lower pitch
+  - Each pitch is shifted up or down (transposed)
+  - Relative distance between pitches remains the same.
+  - **Diatonic transposition** is when the motif is transposed but continues to use pitches found in the key of the piece.
+  - **Chromatic transposition** is when the motif is transposed but uses pitches not found in the key of the piece.
+- Sequence
+  - **Sequences** are very easy way of creating melodies out of motifs.
+  - Combination of repetition and transposition 
+  - The repetition of a motif 3 or more times, with each repetition being transposed by the same interval higher in pitch 
+    (or by the same interval lower in pitch)
+  - Sequence can be either ascending or descending but **cannot be both in the same sequence**.
+  - Sequence do not necessarily need to move higher or lower **by seconds**, but it's common.
 
-- Johann Sebastian Bach
-  - Brandenburg Concerto No. 1
-  - Brandenburg Concerto No. 2
-  - Brandenburg Concerto No. 3
+**Diatonic** refers to the major and minor scales.
 
-Section 3
+**Diatonic sequence** means that each time the motif is restated, it remains in the same key. It only uses pitches from a particular key or scale. 
+This causes slight differences in the proportional distance between pitches.
 
-- Franz Joseph Haydn
-  - 2nd movement from symphony No. 94 (the surprise symphony)
-  - 3rd movement from piano trio no. 39 (gypsy rondo)
-  - String quartet Op. 76 No. 2 in D minor
-
-Section 4: Types of rhythmic phrases
-
-- Wolfgang Amadeus Mozart
-  - 3rd movement (“Rondo Alla Turca”) from piano sonata No. 11
-  - 2nd movement from Piano Concerto No. 21 in C major
-  - Serenade No. 13 for strings in G major (“Eine kleine Nachtmusik”)
-  - 1st movement from Symphony No. 40 in G minor
-
-Section 5: Rhythmic periods and phrase groups
-
-- Ludwig van Beethoven (1770 – 1827)
-  - 1st movement from Symphony No. 5 
-  - 2nd movement from Piano Sonata No. 8 (“Pathétique”)
-  - 3rd movement from Piano Sonata No. 14 (“Quasi una fantasia”)
-  - Piano Concerto No. 5 in E-flat major (the "Emperor" concerto)
-
-Section 6: Rhythmic development part 1
-
-- Gioachino Rossini (1792 – 1868)
-  - Overture to the opera “L'italiana in Algeri” (The Italian Girl in Algiers)
-  - Overture to the opera “William Tell” 
-  - Overture to the opera “Semiramide”
-- Amilcare Ponchielli (1834 – 1886)
-  - “Dance of the Hours” from Act 3 of the opera “La Gioconda”
-
-Section 7: Rhythmic development part 2
-
-- Franz Schubert (1797 – 1828)
-  - Ave Maria 
-  - Moment Musical No. 3
-  - "Ständchen" (“Serenade”) piano version or piano and violin version 
-  - Arpeggione Sonata in A minor (cello and piano version)
-  - String Quartet No. 14 in D minor (Death and the Maiden)
-
-Section 8: Conveying mood through rhythm
-
-- Felix Mendelssohn (1809 – 1847)
-  - Violin Concerto in E minor, Op. 64
-  - Symphony No. 4 in A major (the “Italian” symphony)
+**Chromatic sequence** means that, in order to keep the distance between pitches exactly the same from one statement of the motif 
+to the next, we need to **sharp** or **flat** certain notes in the subsequent measures. This makes us use the pitches that 
+are not found on the key. 
