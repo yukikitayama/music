@@ -189,6 +189,18 @@ we have done a good job of balancing the principles of uniformity and variety**.
 
 **Change of tonality** is changing major to minor, or minor to major
 
+**Melodic phrase** is the musical equivalent of the sentence. It can stand alone as a complete thought or idea.
+
+- Typically 2-4 measures in length
+- Most are divisible by 2
+- Most melodic phrases are made up of a number of different motifs
+  - Primary motif + secondary motif
+  - Too many motifs means lack of unity and unintelligible
+  - Too few motifs means lack of variety and dull
+
+**Transposition + multiple motifs** can create unity and variety
+
+Primary motif + transposed primary motif + secondary motif + transposed secondary motif
 
 
 

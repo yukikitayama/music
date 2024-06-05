@@ -94,3 +94,11 @@ Section 12: Melodic development part 2
   - Prelude to Act I of the opera “Un Ballo in Maschera” (A Masked Ball)
   - "La donna è mobile" from the opera “Rigoletto”
   - "Libiamo ne' lieti calici" from the opera “La Traviata”
+
+Section 13: Melodic phrase
+
+- Johann Strauss II (1825 – 1899)
+  - Overture to the operetta “Die Fledermaus” (The Bat)
+  - Kaiser-Walzer (the Emperor Waltz)
+  - “An der schönen blauen Donau” (The Blue Danube Waltz)
+  - Tritsch-Tratsch-Polka (Chit Chat Polka)
