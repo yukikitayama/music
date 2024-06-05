@@ -166,3 +166,37 @@ This causes slight differences in the proportional distance between pitches.
 **Chromatic sequence** means that, in order to keep the distance between pitches exactly the same from one statement of the motif 
 to the next, we need to **sharp** or **flat** certain notes in the subsequent measures. This makes us use the pitches that 
 are not found on the key. 
+
+**Intervallic expansion** is the repetition of the melodic motif using larger intervals. When using intervallic expansion, 
+the intervals can be made larger by any amount. For example, 3rd -> 4th. 3rd -> 5th, 6th, or 7th.
+
+- A single interval may be expanded
+- Multiple intervals may be expanded
+- All intervals may be expanded
+
+**Intervallic compression** is the opposite of intervallic expansion.
+
+- A single interval may be compressed
+- Multiple intervals may be compressed
+- All intervals may be compressed
+
+**Octave transfer** is similar to transposition. **After octave transfer, if the motif is still clearly recognizable, then 
+we have done a good job of balancing the principles of uniformity and variety**.
+
+- A single pitch may be transposed by an octave
+- Several pitches may be transposed by an octave
+- Entire motif may be transposed by an octave
+
+**Change of tonality** is changing major to minor, or minor to major
+
+
+
+
+
+
+
+
+
+
+
+

@@ -85,3 +85,12 @@ Section 11: Melodic development part 1
   - Piano Concerto No. 2 in A major 
   - Liebestraum No. 3 
   - Etude No. 3 in G sharp minor (La Campanella “the little bell”) from the Grandes études de Paganini
+
+Section 12: Melodic development part 2
+
+- Giuseppe Verdi (1813 – 1901)
+  - Prelude to Act I of the opera “La Traviata” 
+  - Triumphal March from the opera “Aida” 
+  - Prelude to Act I of the opera “Un Ballo in Maschera” (A Masked Ball)
+  - "La donna è mobile" from the opera “Rigoletto”
+  - "Libiamo ne' lieti calici" from the opera “La Traviata”
