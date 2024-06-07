@@ -102,3 +102,11 @@ Section 13: Melodic phrase
   - Kaiser-Walzer (the Emperor Waltz)
   - “An der schönen blauen Donau” (The Blue Danube Waltz)
   - Tritsch-Tratsch-Polka (Chit Chat Polka)
+
+Section 14: Melodic Period
+
+- Johannes Brahms (1833 – 1897)
+  - Wiegenlied (Lullaby), Op. 49, No. 4 
+  - Hungarian Dance No. 4 (for orchestra)
+  - Hungarian Dance No. 5 (for orchestra)
+  - Academic Festival Overture, Op. 80

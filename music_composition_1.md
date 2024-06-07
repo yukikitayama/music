@@ -53,12 +53,16 @@ A **period** consists of **2 phrases** that have relationship of **antecedent** 
 
 - Antecedent phrase
   - Ends weakly
-  - Use **continuation** and **temporary repose** phrase
+  - Phrases that suggest **continuation** and **temporary repose** phrase
+  - Question phrase
 - Consequent phrase
   - Ends strongly
-  - Use **finality** phrase
+  - Phrases that suggest **finality** phrase
+  - Answer phrase
 
-**Phrase group** consists of 2 or more phrases that do not have antecedent to consequent relationship. 
+**Phrase group** consists of 2 or more phrases that do not have antecedent to consequent relationship.
+
+The example of phrase group is `question phrase -> question phrase -> answer phrase`
 
 **Augmentation** is taking a motif or an entire phrase and increasing the duration of each note by the same proportion. 
 For example, increase eighth note to quarter note, increase quarter note to half note. **Strict augmentation** is doubling 
@@ -201,6 +205,19 @@ we have done a good job of balancing the principles of uniformity and variety**.
 **Transposition + multiple motifs** can create unity and variety
 
 Primary motif + transposed primary motif + secondary motif + transposed secondary motif
+
+**Stable tones** are the pitches that form the tonic chord.
+
+In C major, stable tones are 1 (C, **tonic**), 3 (E, **mediant**), and 5 (G, **dominant**)
+
+**Tonic** is the most stable. **Dominant** is the second most stable. **Mediant** is the third most stable. 
+All other tones are **unstable tones**.
+
+**Stable tones can suggest temporary repose or suggest finality**. Usually **median and dominant suggests temporary repose**.
+**Tonic** suggests finality.
+
+**Unstable tone can suggest continuation**. Since it's not stable, our ear feels that we are not at rest yet and expect 
+the music to continue.
 
 
 
