@@ -110,3 +110,10 @@ Section 14: Melodic Period
   - Hungarian Dance No. 4 (for orchestra)
   - Hungarian Dance No. 5 (for orchestra)
   - Academic Festival Overture, Op. 80
+
+Section 15: Melodic development part 3
+
+- Camille Saint-Saëns (1835 – 1921)
+  - Introduction and Rondo Capriccioso in A minor, Op. 28 
+  - “Bacchanale” from the opera “Samson and Delilah” 
+  - Piano Concerto No. 2 in G minor, Op. 22

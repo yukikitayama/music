@@ -219,13 +219,16 @@ All other tones are **unstable tones**.
 **Unstable tone can suggest continuation**. Since it's not stable, our ear feels that we are not at rest yet and expect 
 the music to continue.
 
+**Inversion** is the restatement of the motif (or phrase) with all its intervals moving in the opposite direction. For 
+example, if the motif is moving a 3rd higher in pitch, then inversion is motif moving a 3rd lower in pitch. Everything 
+is upside down.
 
+**Transposed inversion** is to change the pitch of the starting note of a normal inversion, while a normal inversion 
+starts with the same pitch.
 
+**Mirror inversion** is to add flat or sharp to maintain the quality of each interval same as original.
 
+**Retrograde** is to restate the motif or phrase in reverse (original played backwards), while inversion restate it upside down.
 
-
-
-
-
-
-
+**Retrograde inversion** is to restate motif or phrase upside down and backwards. Steps are 1. Flip the original upside down.
+2. Play it backwards.
