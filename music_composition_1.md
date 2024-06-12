@@ -76,7 +76,8 @@ For example, a half note to a quarter note, a quarter note to an eighth note. **
 **Truncation** is when any part of the end of a motif or phrase is left off (truncated). It works best with phrases, 
 because motif are already too short to truncate. Truncating by putting rests instead of notes for example.
 
-**Expansion** is when any part of a motif or phrase is added on to the end of the original rhythm.
+**Expansion** is when any part of a motif or phrase is added on to the end of the original rhythm. Use a part of the 
+original motif or phases to add.
 
 **Displacement** (rhythmic displacement) is accomplished by shifting a motif or a phrase over so that it begins on a 
 different beat. **Displacement changes the sound and feel of a motif or phrase because different notes will now be stronger.**
@@ -232,3 +233,12 @@ starts with the same pitch.
 
 **Retrograde inversion** is to restate motif or phrase upside down and backwards. Steps are 1. Flip the original upside down.
 2. Play it backwards.
+
+**Chord tones** are the pitches of a chord (e.g. C Major, C Minor) that have been used to make up a melodic motif or phrase.
+
+**Non-chord tones** are the pitches of a melodic motif or phrase that do not belong to the chord that makes up that melodic motif or phrase.
+
+Melodies may be made up of chord tones and non-chord tones.
+
+To distinguish chord tones and non-chord tones, find the frequently appearing tones or pitches which appear on beat positions for chord-tones. 
+Distinguish the feeling from the entire motif or phrase, for example, whether is major or minor.

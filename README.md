@@ -9,3 +9,7 @@ https://musescore.org/en
 **Transcribing** is hearing a rhythm, melody, or harmony and being able to notate it.
 
 The place where you find scores https://imslp.org/
+
+## What I don't understand
+
+- Chord tones and non-chord tones

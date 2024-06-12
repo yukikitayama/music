@@ -117,3 +117,12 @@ Section 15: Melodic development part 3
   - Introduction and Rondo Capriccioso in A minor, Op. 28 
   - “Bacchanale” from the opera “Samson and Delilah” 
   - Piano Concerto No. 2 in G minor, Op. 22
+
+Section 16: Melodic development part 4
+
+- Georges Bizet (1838 – 1875)
+  - Carmen Suite No. 1 (compiled by Ernest Guiraud)
+  - Carmen Suite No. 2 (compiled by Ernest Guiraud)
+  - “Je Crois Entendre Encore” from the opera “Les pêcheurs de perles” (The Pearl Fishers)
+- Jacques Offenbach (1819 – 1880)
+  - “Barcarolle” from the opera “Les contes d'Hoffmann” (The Tales of Hoffmann)
