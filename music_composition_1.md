@@ -242,3 +242,21 @@ Melodies may be made up of chord tones and non-chord tones.
 
 To distinguish chord tones and non-chord tones, find the frequently appearing tones or pitches which appear on beat positions for chord-tones. 
 Distinguish the feeling from the entire motif or phrase, for example, whether is major or minor.
+
+**Passing tones** are a type of non-chord tones, used to pass between chord tones.
+- A passing tone must be **between** two chord tones.
+- A passing tone must move in **stepwise** motion.
+- A passing tone must move in a **continuous** direction away from and to the next chord tone.
+
+There is **double passing tone** where there are two non-chord tones between chord tones instead of one non-chord tone.
+
+When passing tones are at strong beats, it's **accented passing tone**.
+
+**Neighbor tone** is also a type of non-chord tones.
+- A neighbor tone must be **between** two chord tones.
+- A neighbor tone must move in **stepwise** motion.
+- A neighbor tone must move in a **discontinuous** motion away from and immediately return to the same chord tone.
+
+The only difference between a passing tone and a neighbor tone is whether the motion is continuous or discontinuous.
+
+If a neighbor tone is place at strong beats, it's **accented neighbor tone**.

@@ -126,3 +126,18 @@ Section 16: Melodic development part 4
   - “Je Crois Entendre Encore” from the opera “Les pêcheurs de perles” (The Pearl Fishers)
 - Jacques Offenbach (1819 – 1880)
   - “Barcarolle” from the opera “Les contes d'Hoffmann” (The Tales of Hoffmann)
+
+Section 17: Chord tones and non-chord tones
+
+- Pyotr Ilyich Tchaikovsky (1840 – 1893)
+  - The Nutcracker Suite 
+  - June (“Barcarolle”) from “The Seasons” 
+  - 1812 Overture 
+  - Symphony No. 4 in F minor, Op. 36
+
+Section 18: Passing tones and neighbor tones
+
+- Pyotr Ilyich Tchaikovsky (1840 – 1893)
+  - Sérénade mélancolique in B-flat minor for violin and orchestra, Op. 26 
+  - Romeo and Juliet 
+  - Symphony No. 6 in B minor, Op. 74 (Pathétique)
