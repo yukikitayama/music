@@ -260,3 +260,13 @@ When passing tones are at strong beats, it's **accented passing tone**.
 The only difference between a passing tone and a neighbor tone is whether the motion is continuous or discontinuous.
 
 If a neighbor tone is place at strong beats, it's **accented neighbor tone**.
+
+**Chromatic tones** are the pitches not found in the scale, while **diatonic** refers to the pitches iin the scale. 
+Chromatic tones can be chromatic passing tones or chromatic neighbor tones. Both may be accented or non-accented.
+
+**Incomplete neighbor tone** is a type of non-chord tone which occurs between two chord tones, but is neighbor to only one. 
+**Escape tone** is a type of incomplete neighbor tone which happens by stepwise motion from a chord tone and go back to 
+a chord tone by skipwise motion in non-accented position. **Appoggiature** is also a type of incomplete neighbor tone which appears by skipwise 
+motion from a chord tone and go back to a chord tone by stepwise motion in accented position.
+
+

@@ -141,3 +141,9 @@ Section 18: Passing tones and neighbor tones
   - Sérénade mélancolique in B-flat minor for violin and orchestra, Op. 26 
   - Romeo and Juliet 
   - Symphony No. 6 in B minor, Op. 74 (Pathétique)
+
+Section 19: Chromatic tones and incomplete neighbor tones
+
+- Antonín Dvořák (1841 – 1904)
+  - Serenade for Strings in E Major, Op. 22 
+  - Symphony No. 9 in E minor (the “New World Symphony”)
