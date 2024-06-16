@@ -269,4 +269,13 @@ Chromatic tones can be chromatic passing tones or chromatic neighbor tones. Both
 a chord tone by skipwise motion in non-accented position. **Appoggiature** is also a type of incomplete neighbor tone which appears by skipwise 
 motion from a chord tone and go back to a chord tone by stepwise motion in accented position.
 
+**Anticipation tone** is a tone that anticipates the next chord tone. This tone is a non-chord tone in the current measure, 
+but it will become a chord tone in the next measure. A chord tone in the next measure is being played early in anticipation of 
+the changing chord. Anticipation tones are **non-accented**.
 
+**Suspension tone** is a pitch that is **held over through the next chord change**. 
+It is a chord tone as it relates to the chord preceding it abd a non-chord tone as it relates to the chord that immediately follows.
+A suspension tone is **accented**. Suspensions must resolve downwards by a step to the next tone. 
+If a suspension tone resolves upwards by a step to the next tone, it's called **retardation tone**.
+
+Suspension and retardation tones may also be **tied** instead of played again.

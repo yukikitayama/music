@@ -147,3 +147,11 @@ Section 19: Chromatic tones and incomplete neighbor tones
 - Antonín Dvořák (1841 – 1904)
   - Serenade for Strings in E Major, Op. 22 
   - Symphony No. 9 in E minor (the “New World Symphony”)
+
+Section 20: Anticipation tones and suspension tones
+
+- Antonín Dvořák (1841 – 1904)
+  - Carnival Overture, Op. 92
+    - タンバリンがすごく良かった
+  - Piano Quintet No. 2 in A major, Op. 81 
+  - Cello Concerto in B minor, Op. 104
