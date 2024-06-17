@@ -279,3 +279,28 @@ A suspension tone is **accented**. Suspensions must resolve downwards by a step 
 If a suspension tone resolves upwards by a step to the next tone, it's called **retardation tone**.
 
 Suspension and retardation tones may also be **tied** instead of played again.
+
+The **principle of tension and resolution in music** is important because it gives the music a sense of **moving** or 
+**going somewhere**. The **external** causes of tension and resolution in music are **dynamics, tempo and articulation**. 
+The **internal** causes of tension and resolution in music are **duration and pitch**. 
+
+**Tension** by rhythm and melody
+- By using **progressively higher pitches**
+  - Rises or swells in the melodic line
+- By using **progressively larger intervals** (large skip, jumps) which creates tension by contrast
+  - e.g. earlier measures use mostly smaller intervals and then somewhere in the piece suddenly begin larger intervals
+- By using **progressively shorter note durations**
+- Use **syncopation** to create rhythmic tension.
+
+**Resolution**
+- By using progressively lower pitches
+  - Downward motion
+- By using progressively smaller intervals
+- By using progressively longer note durations
+- End with tonic pitch
+
+**Syncopation** is to place stress on a note that is not normally stressed. This is a way of creating rhythmic tension 
+in a piece of music.
+- The note must happen on either a weak beat or in-between beats.
+- The note must be emphasized by a marking such as tenuto, marcato, etc. or by continuing to be held over during the very next strong beat.
+
