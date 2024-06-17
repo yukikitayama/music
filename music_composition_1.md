@@ -299,7 +299,7 @@ The **internal** causes of tension and resolution in music are **duration and pi
 - By using progressively longer note durations
 - End with tonic pitch
 
-**Syncopation** is to place stress on a note that is not normally stressed. This is a way of creating rhythmic tension 
+**Syncopation** is to place stress on a note that is not normally stressed. This is a way of creating rhythmic **tension** 
 in a piece of music.
 - The note must happen on either a weak beat or in-between beats.
 - The note must be emphasized by a marking such as tenuto, marcato, etc. or by continuing to be held over during the very next strong beat.

@@ -155,3 +155,12 @@ Section 20: Anticipation tones and suspension tones
     - タンバリンがすごく良かった
   - Piano Quintet No. 2 in A major, Op. 81 
   - Cello Concerto in B minor, Op. 104
+
+Section 21: Tension and resolution 
+
+- Edvard Grieg (1843 – 1907)
+  - In the Hall of the Mountain King (from “Peer Gynt”)
+    - https://www.youtube.com/watch?v=4nMUr8Rt2AI
+  - Morning Mood (from “Peer Gynt”)
+  - Anitra’s Dance (from “Peer Gynt”)
+  - 1st movement from Piano Concerto No. 1 in A minor
