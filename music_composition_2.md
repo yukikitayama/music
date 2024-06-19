@@ -8,7 +8,9 @@ can choose to form a melody.
 It's possible for a chord to use pitches outside of the key, but for simplicity, focus only on dealing with **diatonic chords**
 (chords that use only the pitches of the diatonic scale)
 
-I chord, IV chord, V chord are called **primary chords**.
+I chord, IV chord, V chord are called **primary chords**. The primary chords can **harmonize any melody made up from the pitches of the scale**.
+
+When a piece is written in a **minor key**, the primary chords have the same tonal functions as the primary chords in major keys.
 
 **Chord progression** is a succession of chords moving toward a definite tonal goal.
 
