@@ -56,3 +56,48 @@ and one (or more) of the other voices moves by a whole step or helf step.
   - Movement by steps is the most melodic form of movement.
   - It's natural to the human voice and the movement we find present in the scale.
 
+**Secondary chord** are the other chords (than I, IV, V) that can be built from the pitches of the scale.
+Each primary chord has a secondary chord counterpart that **shares two pitches in common**.
+The secondary chords are interchangeable with their primary counterparts. When a secondary chord is substituted for a 
+primary chord, it can take on that primary chord function.
+- Minor chords
+  - VI: Tonic substitution
+    - I
+    - (IV. VI chord can have pre-dominant function too)
+  - II: Pre-dominant substitution
+    - IV
+  - III: Dominant substitution
+    - V
+    - (I. III chord can have tonic function too)
+- Diminished major chord
+  - VII: Dominant substitution
+    - V
+
+Chords with two pitches in common can be easily substituted for one another and still retain the same function.
+
+"Departure, anticipation and return"
+
+`T - PD - D - T`
+
+Not every single piece of music ever written fits neatly into this pattern, but many do. It's a helpful guide and a useful starting point.
+
+`T` = Tonic. `PD` = Pre-dominant. `D` = Dominant.
+
+`Ts` = Tonic substitute. `PDs` = Pre-dominant substitute. `Ds` = Dominant substitute.
+
+Choose a chord from each circle in clockwise
+
+Elements that make some chord changes more appealing than others
+- Voice leading
+- Amount of similarity between two chords
+  - Triads can have **two** pitches in common
+    - **Subtle** chord change
+  - Triads can have **one** pitches in common
+    - **Strong** chord change
+  - Triads can have **zero** pitches in common
+    - **Stark** chord change
+
+The 3 S's in chord progression
+- Subtle
+- Strong
+- Stark
