@@ -101,3 +101,14 @@ The 3 S's in chord progression
 - Subtle
 - Strong
 - Stark
+
+Composers can develop the basic chord progression formula by extending functions, chaining progression.
+
+**Function extension** by using function substitutes, extend any 3 of the functions; T, PD, D. For example, `T - PDs - PD - D - T`
+
+**Chain progressions** is to overlap the end of one and the start of another. e.g. `T - PD - Ds - T - PDs - D - T`
+
+**Partial progression formula** is `I -> IV -> I` or `I -> V -> I`. We can leave out either pre-dominant or dominant.
+
+**Circle progression** is based on the circle of 5ths. For example, descending **perfect fifth** followed by ascending **perfect fourth**. 
+Ascending perfect fourth is equivalent to an inverted perfect fifth.
