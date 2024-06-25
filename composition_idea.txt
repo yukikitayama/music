@@ -1,3 +1,5 @@
 A: Basic chord progression
 B: Circle progression
 A': Basic chord progression
+
+Use title with X.X.X version number to allow midfication and to make current music presentable.

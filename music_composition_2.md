@@ -112,3 +112,33 @@ Composers can develop the basic chord progression formula by extending functions
 
 **Circle progression** is based on the circle of 5ths. For example, descending **perfect fifth** followed by ascending **perfect fourth**. 
 Ascending perfect fourth is equivalent to an inverted perfect fifth.
+
+**Harmonic phrase** is a succession of chords ending in a cadence. 
+Harmonic phrase is typically 2-4 measures in length and is tied to the rhythmic and melodic phrase.
+
+**Cadence** is a progression of two chords that expresses some degree of finality. It's like musical punctuation. 
+There are 4 types of cadences. Each of the cadences has a different strength and helps to determine the types of phrases within a piece of music.
+
+4 types of cadences
+- Authentic cadence (Strongest type of cadence, suggest **Finality**)
+  - V to I
+  - V7 to I
+- Plagal cadence (**Finality**, strong)
+  - IV to I
+- Half cadence (**Continuation**, weak)
+  - I to V
+  - ii to V
+  - vi to V
+  - IV to V
+- Deceptive cadence (**Temporary repose**, weak)
+  - V to a chord other than I
+  - Most often it's V to vi (Weak cadence which can suggest temporary repose)
+    - Ears expect to hear I after V, but hear vi instead, and vi is substitute of tonic I.
+
+Along with cadences, another factor that helps determine what a musical phrase suggests is the final chord's tonal function
+- A musical phrase that ends on any chord with a **pre-dominant** or **dominant** function suggests **continuation**.
+  - Also suggested by ending in a **half cadence**
+- A musical phrase that ends on a **tonic substitute** suggests **temporary repose**.
+  - Also suggested by ending in a **deceptive cadence of V to vi**.
+- A musical phrase that ends on **"I" always suggests finality**.
+  - Finality can be suggested by **Plagal cadence** or **authentic cadence**.

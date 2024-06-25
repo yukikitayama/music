@@ -1,5 +1,9 @@
 # Music Composition 1
 
+**Notate** means to write down.
+
+**Transcribing** is hearing a rhythm, melody, or harmony and being able to notate it.
+
 ## Rhythm
 
 **Uniformity** provides intelligible. **Variety** provides interesting
