@@ -22,3 +22,12 @@ Section 3: Developing harmonic progressions
 
 - Gustav Mahler (1860 - 1911)
   - Symphony No. 2 “The Resurrection Symphony”
+
+Section 4: The harmonic phrase
+
+- Claude Debussy (1862 - 1918)
+  - Clair de Lune (Moonlight)
+    - https://www.youtube.com/watch?v=Inmaqv7OvLE
+  - Prélude à l'après-midi d'un faune (Prelude to the Afternoon of a Faun)
+  - Arabesque No. 1. Andantino con moto
+  - La fille aux cheveux de lin (The Girl with the Flaxen Hair)

@@ -142,3 +142,19 @@ Along with cadences, another factor that helps determine what a musical phrase s
   - Also suggested by ending in a **deceptive cadence of V to vi**.
 - A musical phrase that ends on **"I" always suggests finality**.
   - Finality can be suggested by **Plagal cadence** or **authentic cadence**.
+
+**Harmonic period** is two phrases that have an antecendent to consequent relationship by combining phrases. 
+Call these phrases **question and answer** phrases. 
+Antecendent phrase (question phrase) is the weaker phrase which is followed by the consequent phrase (answer phrase) is the stronger phrase.
+**Strength of the phrase is determined by the cadence that ends the phrase**.
+Antecedent to consequent relationship is said to exist as long as the second phrase is the stronger phrase.
+
+`period = phrase 1 + phrase 2 = half cadence + perfect authentic cadence`
+
+**Phrase group (Three-phrase period)** is when three phrases are combined. 
+- Two questions (antecedents) and one answer (consequent). This is more common. 
+- One question (antecedent) and two answers (consequents).
+
+**Double period** contains four phrases.
+- Phrase 1 & 2 = antecedent
+- Phrase 3 & 4 = consequent
