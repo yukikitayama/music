@@ -31,3 +31,12 @@ Section 4: The harmonic phrase
   - Prélude à l'après-midi d'un faune (Prelude to the Afternoon of a Faun)
   - Arabesque No. 1. Andantino con moto
   - La fille aux cheveux de lin (The Girl with the Flaxen Hair)
+
+Section 5: The harmonic period
+
+- Paul Dukas (1865 - 1935)
+  - The Sorcerer's Apprentice
+- Jean Sibelius (1865 - 1957)
+  - Finlandia
+- Erik Satie (1866 - 1925)
+  - Gymnopédie No. 1

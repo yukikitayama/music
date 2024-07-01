@@ -156,5 +156,27 @@ Antecedent to consequent relationship is said to exist as long as the second phr
 - One question (antecedent) and two answers (consequents).
 
 **Double period** contains four phrases.
-- Phrase 1 & 2 = antecedent
-- Phrase 3 & 4 = consequent
+- Phrase 1 & 2
+  - Antecedent
+  - Ends with Half Cadence
+  - End of phrase 1 is weak
+- Phrase 3 & 4
+  - Consequent
+  - ENds with Perfect Authentic Cadence
+  - End of phrase 3 is weak
+
+**Diatonic chord** is a chord made up of pitches within the key
+
+**Chromatic chord** is a chord that includes one or more pitches from outside the key.
+
+**Borrowed chords** are chords taken from the parallel key. Borrowed chords that share the same Roman numeral name are able to share the same function.
+
+**Altered chord** is a cord that has one or more of its pitches replaced with a chromatic pitch not normally found in the key. 
+An altered chords differs from a borrowed chord in that it does not belong to the parallel key. 
+The most common type of altered chord is the secondary dominant.
+
+**Secondary dominant** is a chord outside of the current key (non-diatonic) which can act as a dominant to one of the chords within the current key (diatonic). 
+Secondary dominants **tonicize** the chord of which they are the dominant. 
+**Tonicization** us taking a chord that is not the tonic chord and making it temporarily sound as if it were a brand new tonic chord.
+
+
