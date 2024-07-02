@@ -1,6 +1,8 @@
 - Basic chord progression
   - Phrase group (Three phrase period)
   - Or
+  - Major key
+    - Use borrow chords from minor
 - Circle progression
 - Basic chord progression
   - Phrase group (Three phrase period)

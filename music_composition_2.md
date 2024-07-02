@@ -169,14 +169,39 @@ Antecedent to consequent relationship is said to exist as long as the second phr
 
 **Chromatic chord** is a chord that includes one or more pitches from outside the key.
 
-**Borrowed chords** are chords taken from the parallel key. Borrowed chords that share the same Roman numeral name are able to share the same function.
+**Borrowed chords** are chords taken from the parallel key. **Parallel keys** are keys that share the same root. 
+For example, F major and F minor are parallel keys, because they share the same root of F.
+Borrowed chords that share the same Roman numeral name are able to share the same function, meaning can substitute one for another. 
+As a result, one or two notes will be in common.
+For example, C minor i can substitute C major I.
+**Because chords from the parallel key that share the same Roman numeral share the same roots and/or because they have one or two notes in common**, they can be easily substituted for one another.
+
+**It's more common for a song in a major key to borrow chords from a minor key than a song in a minor key to borrow chords from a major key**.
 
 **Altered chord** is a cord that has one or more of its pitches replaced with a chromatic pitch not normally found in the key. 
 An altered chords differs from a borrowed chord in that it does not belong to the parallel key. 
-The most common type of altered chord is the secondary dominant.
+The most common type of altered chord is the **secondary dominan**t.
 
-**Secondary dominant** is a chord outside of the current key (non-diatonic) which can act as a dominant to one of the chords within the current key (diatonic). 
+**Secondary dominant** is a chord outside of the current key (non-diatonic) which can act as a **dominant** to one of the chords within the current key (diatonic). 
 Secondary dominants **tonicize** the chord of which they are the dominant. 
 **Tonicization** us taking a chord that is not the tonic chord and making it temporarily sound as if it were a brand new tonic chord.
+A secondary dominant chord will always be followed by the chord of which it is the **dominant**.
+
+In other words, from the any chord in the current key, find secondary dominant as altered chord by the perfect 5th higher from the beginning chord, 
+and the secondary dominant will work as dominant, and the beginning any chord will sound like tonic, even if they are not tonic.
+
+When composers use secondary dominant chords in their compositions, they are taking a chord from another key and bringing it into the current key where it does not normally belong.
+
+"V/V", "V of V", "Five of five", "Dominant of the dominant"
+
+Tips for using secondary dominants in chord progression
+- A secondary dominant will typically be preceded by a chord that has one or two notes in common with it.
+- A secondary dominant chord will always be followed by the chord of which it is the dominant.
+
+"V/IV" is identical to the tonic chord fo the key. "V/IV" is not used as a secondary dominant. Instead, **"V7/IV"** is used to make clear the secondary dominant function.
+
+**Picardy third** is when the expected minor tonic chord is changed to a major tonic chord.
+
+
 
 
