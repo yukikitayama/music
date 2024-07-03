@@ -40,3 +40,11 @@ Section 5: The harmonic period
   - Finlandia
 - Erik Satie (1866 - 1925)
   - Gymnopédie No. 1
+
+Section 6: Chromatic chord substitution
+
+- Franz Lehár (1870 - 1948)
+  - Overture to the operetta “The Merry Widow”
+- Sergei Rachmaninoff (1873 - 1943)
+  - Prelude in D major, Op. 23, No. 4
+  - Piano Concerto No. 2 in C minor, Op. 18

@@ -202,6 +202,25 @@ Tips for using secondary dominants in chord progression
 
 **Picardy third** is when the expected minor tonic chord is changed to a major tonic chord.
 
+**Modulation** is changing from one key to a different key within a single movement of a piece.
+Key change between movements in a larger piece with multiple movements is not modulation but rather "change of key".
+Modulation satisfies the compositional principle of **variety** and brings the change necessary to keep a piece from becoming repetitive and boring.
+Modulation involves the establishment of a new tonic chord. When a new chord is used as the tonic chord for a very short period of time, it's considered **tonicization** rather than modulation.
 
+Using **pivot chords (common-chords)** is one of the most common ways to modulate.
+Pivot chords are chords that are common to the key you are starting in and the key you are modulating to.
+
+**Keys further apart on the circle of 5ths have fewer chords in common.
+A part of circle of 5ths around C major is `B_flat - F - C - G - D`.
+C major has 4 chords in common with F major and G major. But C major has only 2 chords in common with B flat and D major.
+Once you go beyond two 5ths on the circle in either direction, there are no shared chords from the center key.
+
+3 steps to modulation using pivot chords
+1. A tonic must already be firmly established
+2. A pivot chord is used and the tonal center begins to change
+3. A new tonic is firmly established and made clear to the listener.
+    1. Typically a new tonic is established by means of a cadence.
+
+**Related keys** are keys that are closer to each other on the **circle of 5ths**.
 
 
