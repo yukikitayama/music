@@ -205,10 +205,13 @@ Tips for using secondary dominants in chord progression
 **Modulation** is changing from one key to a different key within a single movement of a piece.
 Key change between movements in a larger piece with multiple movements is not modulation but rather "change of key".
 Modulation satisfies the compositional principle of **variety** and brings the change necessary to keep a piece from becoming repetitive and boring.
-Modulation involves the establishment of a new tonic chord. When a new chord is used as the tonic chord for a very short period of time, it's considered **tonicization** rather than modulation.
+Modulation involves the **establishment of a new tonic chord**. 
+When a new chord is used as the tonic chord for a very short period of time, it's considered **tonicization** rather than modulation.
 
 Using **pivot chords (common-chords)** is one of the most common ways to modulate.
 Pivot chords are chords that are common to the key you are starting in and the key you are modulating to.
+
+**Pivot tone** is a tone that is common to both the key you are starting in and the key you are modulating to.
 
 **Keys further apart on the circle of 5ths have fewer chords in common.
 A part of circle of 5ths around C major is `B_flat - F - C - G - D`.
@@ -222,5 +225,10 @@ Once you go beyond two 5ths on the circle in either direction, there are no shar
     1. Typically a new tonic is established by means of a cadence.
 
 **Related keys** are keys that are closer to each other on the **circle of 5ths**.
+
+**Sequential modulation** is modulation through a **chromatic sequence**.
+
+**Direct modulation** is modulation that is abrupt. It doesn't use pivot chords, pivot tones, altered chords or sequences to help smooth out the modulation. Direct modulation is also referred to as **phrase modulation** because this type of modulation typically occurs between two phrases.
+
 
 
