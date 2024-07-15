@@ -56,3 +56,11 @@ When notes with flags are grouped together, the flags are replaced by **beams**.
 **Time signature** is a meter indicated at the start of a song by 2 numbers. Top number indicates **number of beats per measure**. Bottom number indicates **unit of measurement**. Bottom number 4 means quarter note is designated as unit of measurement, meaning assigned a value of 1.
 
 `C` means common time 4/4.
+
+**Rests** are relative durations of silence
+
+When a **dot** is placed to the **right of the note head**, the duration of the note is **increased by one half of the note's value**. Non-dotted notes are divisible by 2. Dotted notes are divisible by 3. The use of the dot developed around the mid-13th century.
+
+**Tie** is a curved line strung between two notes, indicating that the durations are to be added together. Notes can be tied across bar lines. Any note durations may be tied together.
+
+The same rhythm can be written using ties or dotted notes. Tie is easy to see beats but more cluttered. Dot is harder to see beats but less cluttered. Dot is more common expression.
