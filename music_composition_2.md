@@ -230,5 +230,10 @@ Once you go beyond two 5ths on the circle in either direction, there are no shar
 
 **Direct modulation** is modulation that is abrupt. It doesn't use pivot chords, pivot tones, altered chords or sequences to help smooth out the modulation. Direct modulation is also referred to as **phrase modulation** because this type of modulation typically occurs between two phrases.
 
+**Triplet** is 3 of one type of note played in the same amount of time as 2 of the same type of note. The most common way to indicate triplets is with a single number 3 placed over or under the notes with or without a bracket or curved line. The triplet can be written as a rator like `3:2`.
 
+**Tuplet** is an artificial division of the meat, multiples of the beatm or subdivisions of the beat, that does not exist within the meter. Some types of tuplets include duplets, triplets, quintuplets, sextuplets, septuplets, and nonuplets. The most common type of tuplet is the triplet.
 
+**Duplet** is in sense the opposite of a triplet. 2 of one type of note are played **in the same amount of time that is would normally take to play 3 of the same type of note**.
+
+Both triplets and duplets are artificial divisions of the beat, multiples of the beat, or subdivisions of the beat, that do not exist within the meter. Triplets appear in **simple meters where the pulse is normally divisible by 2**. Duplets appear in **compound meters where the pulse is normally divisible by 3**.

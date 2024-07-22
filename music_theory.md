@@ -79,3 +79,14 @@ The bottom number in 2/2 meter indicates that the half note has been designated 
 The strong beat in cut time occurs on beat 1 of each measure.
 Cut time is useful for reading music that is meant to be played at **fast tempos**.
 2/2 meter sometimes appears for the readability of notes in scores.
+
+**Simple meter** is any meter in which the pulse can be divided by two. In simple meter, **pulse** refers to the beat.
+- **Duple meter** is any meter in which there are 2 pulses per measure.
+- **Triple meter** is any meter in which there are 3 pulses per measure.
+- **Quadruple meter** is any meter in which there are 4 pulses per measure.
+
+**Compound meter** is any meter in which the pulse can be divided by three. In compound meter, pulse refers to the perceived beat.
+
+**Complex meter** is any meter that is a combination of duple, triple, or quadruple meters.
+
+
