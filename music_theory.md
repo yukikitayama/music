@@ -89,4 +89,29 @@ Cut time is useful for reading music that is meant to be played at **fast tempos
 
 **Complex meter** is any meter that is a combination of duple, triple, or quadruple meters.
 
+**Pitch** is relative frequency of sound (lower vs. higher). When air is moved, sound is produced. Sound travels in waves and travels about one mile in 5 seconds. 
+**Indefinite pitch** is made when air travels in random waves like thunder, random noise.
+**Definite pitch** is made when air travels in uniform waves like singing. Music is made up mostly of definite pitch. 
+Frequency refers to the rate at which the waves of air reach our ear. Frequency is measured in **cycles per second**. A cycle is from one **wave crest** to the next wave crest. The frequency of a sound wave determines the pitch. 
+When the rate at which sound waves reach the ear is more frequent, the result is a higher sounding pitch. 
+When the rate at which sound waves reach the ear is less frequent, the result is a lower sounding pitch. 
+
+**Staff** is the device by which we indicate pitch. **Staff lines** are the 5 lines and 4 spaces to indicates pitch. **Ledger line** is an additional lines above and below the 5 lines. 
+
+**Clef** is a symbol placed at the beginning of a staff, which indicates the exact pitches the staff lines and spaces will represent.
+**treble clef** is for higher pitches, typically for the right hand. 
+**bass clef** is for lower pitches, typically for the left hand.
+
+Types of movement on the staff
+- **Stepping**
+  - From line to the next space above or below
+  - From space to the next line above or below
+- **Skipping**
+  - From line to the next line above or below
+  - From space to the next space above or below
+- **Repeating**
+  - Same pitch
+
+**Grand staff** is to combine treble clef and bass clef by **brace**, for example for piano. It's the joining of the treble and bass staves. **Middle C** is located on the single ledger line between the treble and bass staves.
+
 
