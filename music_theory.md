@@ -114,4 +114,10 @@ Types of movement on the staff
 
 **Grand staff** is to combine treble clef and bass clef by **brace**, for example for piano. It's the joining of the treble and bass staves. **Middle C** is located on the single ledger line between the treble and bass staves.
 
-
+Distance on the keyboard
+- **Half step** is the distance from one key to the **very next key** either to the right or left. **It does not matter if the key is black or white**.
+  - C -> C flat
+  - E -> F
+- **Whole step** is the distance of **two half steps**.
+  - C -> D
+  - B -> C flat
