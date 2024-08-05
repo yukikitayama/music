@@ -121,3 +121,10 @@ Distance on the keyboard
 - **Whole step** is the distance of **two half steps**.
   - C -> D
   - B -> C flat
+
+**Sharp sign** is a symbol which indicates that we are to play a particular pitch **one half step higher**.
+
+**Flat sign** is a symbol which indicates that we are to play a particular pitch **one half step lower**.
+
+**Enharmonic equivalents** are notes that sound the same but are spelled differently. e.g. B sharp and C. So piano keys can have multiple names.
+
