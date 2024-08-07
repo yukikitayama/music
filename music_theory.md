@@ -128,3 +128,5 @@ Distance on the keyboard
 
 **Enharmonic equivalents** are notes that sound the same but are spelled differently. e.g. B sharp and C. So piano keys can have multiple names.
 
+Sharps and flats are placed to the **left of the note head** on the same line or space on the staff. The rule states that all notes on the same line or space that occur after the sharp or flat are also played as sharped or flatted notes **until the end of the measure**. In the next measure, the sharp or flat have no affect and all sharped or flatted notes return to non-sharped or non-flatted notes. A **natural sign** is a symbol to the **left of a note head** that eliminates the effects of any preceding sharp or flat for the remainder of the measure (or until another sharp or flat is seen).
+
