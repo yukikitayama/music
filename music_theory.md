@@ -130,3 +130,26 @@ Distance on the keyboard
 
 Sharps and flats are placed to the **left of the note head** on the same line or space on the staff. The rule states that all notes on the same line or space that occur after the sharp or flat are also played as sharped or flatted notes **until the end of the measure**. In the next measure, the sharp or flat have no affect and all sharped or flatted notes return to non-sharped or non-flatted notes. A **natural sign** is a symbol to the **left of a note head** that eliminates the effects of any preceding sharp or flat for the remainder of the measure (or until another sharp or flat is seen).
 
+**Interval** is the distance from one pitch to another pitch. There are 7 basic intervals
+- 2nd (C, D)
+- 3rd (C, E)
+- 4th (C, F)
+- 5th (C, G)
+- 6th (C, A)
+- 7th (C, B)
+- 8th (C, C)
+
+**Melodic interval** is the pitches played consecutively.
+
+**Harmonic interval** is the pitches played simultaneously.
+
+**Monochord** is an ancient one-stringed instrument used to measure and compare pitches.
+
+**Mathematical ratios of pitches found byPythagoras**. Simpler whole number ratios produce more consonant sounding intervals. Ratio of interval's frequencies is the inverse ratio of the string lengths.
+- Ratio of 8th is `2:1`
+- Ratio of 5th is `3:2`
+- Ratio of 4th is `4:3`
+
+**Consonance** is the pitches that sound well together.
+
+**Dissonance** is the pitches that do not sound well together.
