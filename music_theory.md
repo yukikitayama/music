@@ -153,3 +153,33 @@ Sharps and flats are placed to the **left of the note head** on the same line or
 **Consonance** is the pitches that sound well together.
 
 **Dissonance** is the pitches that do not sound well together.
+
+Scale is a particular sequence of **whole steps** and **half steps** encompassing **8 pitches**. The 8th pitch is the octave of the 1st pitch. Basis for the scale is the **octave**. The octave is the basis for the scale because it's a natural boundary that encompasses all possible pitches. The pitches of the scale must be neighbor letters of the musical alphabet. The letter name of the first pitch in any major scale is the name of that scale.
+
+**Major scale** is `whole step, whole step, half step, whole step, whole step, whole step, half step`.
+
+- The basis for the **whole tone** is the difference between a 5th and a 4th.
+  - Whole step is the modern day equivalent of the whole tone.
+- The basis for the **semi tone** is the difference between a 4th and two whole tones.
+  - Half step is the modern day equivalent of the semi tone.
+- **Tetrachord** is a total of four pitches tuned in such a way that the result equals **two whole tones and one semi tone**.
+- The origins of the scale are the discovery of the whole tone and semi tone by the Greeks, and their use of tetrachords in tuning their instruments.
+
+**Key** is a specific group of pitches used to write a piece of music (or part of a piece of music). Key comes from scale. Composers and songwriters use the 7 distinct pitches of scales to write their music.
+If a song is made up from the pitches of the C major scale, the song is written in the key of C major.
+
+**Key signature** is the sharps or flats placed on the staff at the beginning of each line of music. Sharps and flats that are part of the key (scale).
+- Order of sharps: FCGDAEB
+  - Name the note 1 half step higher than the last sharp
+- Order of flats: BFADGCF
+  - Name the note of the second last flat.
+  - F major needs to memorize
+
+**Accidentals** are sharps and flats (or naturals) that are not part of the key (scale).
+
+**Circle of 5ths** is a useful tool for understanding keys and key signatures.
+
+**Enharmonic key** is two different keys that sound the same but spelled differently.
+- B major - C flat major
+- F sharp major - G flat major
+- C sharp major - D flat major
