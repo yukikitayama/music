@@ -212,6 +212,7 @@ Using **pivot chords (common-chords)** is one of the most common ways to modulat
 Pivot chords are chords that are common to the key you are starting in and the key you are modulating to.
 
 **Pivot tone** is a tone that is common to both the key you are starting in and the key you are modulating to.
+e.g. D minor and F major are common in both the key of C major and the key of B flat major. Those D minor and F major are called **common chord** and work as **pivot chord** between C major key and B flat major key.
 
 **Keys further apart on the circle of 5ths have fewer chords in common.
 A part of circle of 5ths around C major is `B_flat - F - C - G - D`.
@@ -226,9 +227,11 @@ Once you go beyond two 5ths on the circle in either direction, there are no shar
 
 **Related keys** are keys that are closer to each other on the **circle of 5ths**.
 
+**Pivot tone modulation (common-tone modulation)** uses a **single tone** that is common to both the starting key and the destination key in order to modulate.
+
 **Sequential modulation** is modulation through a **chromatic sequence**.
 
-**Direct modulation** is modulation that is abrupt. It doesn't use pivot chords, pivot tones, altered chords or sequences to help smooth out the modulation. Direct modulation is also referred to as **phrase modulation** because this type of modulation typically occurs between two phrases.
+**Direct modulation (abrupt modulation)** is modulation that is abrupt. It doesn't use pivot chords, pivot tones, altered chords or sequences to help smooth out the modulation. Direct modulation is also referred to as **phrase modulation** because this type of modulation typically occurs between two phrases. Also appear between sections.
 
 **Triplet** is 3 of one type of note played in the same amount of time as 2 of the same type of note. The most common way to indicate triplets is with a single number 3 placed over or under the notes with or without a bracket or curved line. The triplet can be written as a rator like `3:2`.
 

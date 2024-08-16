@@ -183,3 +183,63 @@ If a song is made up from the pitches of the C major scale, the song is written 
 - B major - C flat major
 - F sharp major - G flat major
 - C sharp major - D flat major
+
+All intervals have a **number** and a **quality**.
+
+**Interval's number** is the amount of lines and spaces it spans on the staff. Ignoring any sharps, flats or naturals, **count the total number of lines and spaces that the interval spans on the staff, including line and space that 2 notes are occupying.
+
+**Interval's quality** is the amount of half steps the interval spans. **Count the number of half steps from the bottom note to the top note, and do not include the first note in the count**.
+
+ Types of interval qualities
+- Major
+- Minor
+- Perfect
+
+Interval of a 2nd
+- Major 2nd
+  - 2 half steps
+- Minor 2nd
+  - 1 half step
+  - Smallest interval
+
+`m` denotes minor, `M` denotes major. 
+The number of half steps increases by 1. 
+2nds, 3rds, 6ths, and 7ths can be either major or minor. 
+4ths, 5ths and 8ths are perfect. 
+Minor intervals are always one half step smaller than their major counterparts.
+- m2 = 1 half step
+- M2 = 2 half steps
+
+- m3 = 3 half steps
+- M3 = 4 half steps
+
+- P4 = 5 half steps
+- ? = 6 half steps
+- P5 = 7 half steps
+
+- m6 = 8 half steps
+- M6 = 9 half steps
+
+- m7 = 10 half steps
+- M7 = 11 half steps
+
+- P8 = 12 half steps
+
+The major and perfect intervals can be formed from the pitches of the major scale.
+
+The minor intervals can be formed by lowering the highest note of the major intervals one half step.
+
+**Augmented interval** is any major or perfect interval that has been made larger by one half step.
+- Raise the top note by one half step
+- Lower the bottom note by one half step
+
+The abbreviation for augmented is **A** or **aug**.
+
+When two different intervals have the same sound but are spelled differently, they are considered to be **enharmonic intervals**.
+For example, A7 = P8.
+
+**Diminished interval** is any minor or perfect interval that has been made smaller by one half step
+- Lower the top note by one half step
+- Raise the bottom note by one half step
+
+The abbreviation for diminished is **d** or **dim**.
