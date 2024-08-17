@@ -243,3 +243,15 @@ For example, A7 = P8.
 - Raise the bottom note by one half step
 
 The abbreviation for diminished is **d** or **dim**.
+
+**Double flat**
+
+**Tritone** is 6 half steps A4 and d5, and equal to 6 half steps and also equal to 3 whole steps. e.g., `C + F sharp`, `C + G flat`. Tritone isn't pleasant sound, **diabolus in musica (the devil in music)**.
+Tritone can be found by exactly halving the octave
+
+How to determine augmented and diminished intervals
+1. Determine the interval's "number"
+2. Determine the number of half steps the interval spans
+3. If the amount of half steps is one less than the minor or perfect interval with the same "number", it is diminished.
+4. If the amount of half steps is one more than the major or perfect interval with the same "number", it is augmented.
+
