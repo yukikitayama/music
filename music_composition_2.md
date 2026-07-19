@@ -228,10 +228,13 @@ Once you go beyond two 5ths on the circle in either direction, there are no shar
 **Related keys** are keys that are closer to each other on the **circle of 5ths**.
 
 **Pivot tone modulation (common-tone modulation)** uses a **single tone** that is common to both the starting key and the destination key in order to modulate.
+**Pivot tone** is also called a **common-tone**.
 
 **Sequential modulation** is modulation through a **chromatic sequence**.
 
 **Direct modulation (abrupt modulation)** is modulation that is abrupt. It doesn't use pivot chords, pivot tones, altered chords or sequences to help smooth out the modulation. Direct modulation is also referred to as **phrase modulation** because this type of modulation typically occurs between two phrases. Also appear between sections.
+
+**Change of key** is key change between movements in a larger piece with multiple movements.
 
 **Triplet** is 3 of one type of note played in the same amount of time as 2 of the same type of note. The most common way to indicate triplets is with a single number 3 placed over or under the notes with or without a bracket or curved line. The triplet can be written as a rator like `3:2`.
 
